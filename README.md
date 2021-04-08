@@ -1,5 +1,5 @@
 # StudentManagementSystem
-A Python Project
+A Python Project to manage Student Records stored in a CSV File.
 
 Fields :- ['Roll', 'Name', 'Age', 'Email', 'Phone', 'Work Status', Result']
 Operations :- 
